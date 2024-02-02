@@ -9,6 +9,6 @@ class FizzBuzz:
                 print("Fizz Buzz")
             else:
                 print(i)
-                
+
 
 print(FizzBuzz().fizz(15))
